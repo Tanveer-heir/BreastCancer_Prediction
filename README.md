@@ -1,7 +1,3 @@
-# 🟣 Project 4 — Ensemble Learning Mastery  
-
-**Focus:** Bias–Variance Tradeoff  
-
 ## 📌 Project Overview
 
 This project provides a **comprehensive, empirical study of ensemble learning methods** with a strong emphasis on the **bias–variance tradeoff**. Rather than treating ensembles as black boxes, it systematically evaluates **when and why** each ensemble strategy succeeds or fails.
